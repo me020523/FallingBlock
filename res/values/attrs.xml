@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GameBoard">
+        <attr name="blockElementSize" format="dimension"/>
+        <attr name="borderSize" format="dimension"/>
+        <attr name="boardLineSize" format="dimension"/>
+        <attr name="blockElementPadding" format="dimension"/>
+    </declare-styleable>
+</resources>
